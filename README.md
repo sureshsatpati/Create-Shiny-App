@@ -2,7 +2,7 @@
 
 This repository contains code and resources for creating an interactive Shiny app designed for visualizing and analyzing single-cell data, including RNA-seq and ATAC-seq results. The app enables users to explore and interact with multi-omic datasets, providing an intuitive interface for visual exploration of gene expression, chromatin accessibility, and other genomic features.
 
-Key Features:
+# Key Features:
 
 Interactive Visualizations: Provides dynamic plots such as heatmaps, PCA, t-SNE, UMAP, and violin plots for exploring single-cell gene expression and chromatin accessibility.
 
@@ -14,7 +14,7 @@ Real-time Analysis: Supports running analyses in real-time, providing immediate 
 
 User-friendly Interface: Easy-to-use UI designed for both bioinformaticians and biologists to explore complex datasets without requiring coding experience.
 
-Requirements:
+# Requirements:
 
 R (for Shiny app development)
 
