@@ -37,7 +37,8 @@ archr_obj <- loadArchRProject("/rsrch3/home/genomic_med/ssatpati/Tcell_Exaustion
 
 scConf <- createConfig(archr_obj)
 
-..Remove metadata columns that contain minimal or redundant information..
+
+
 scConf <- delMeta(scConf, c("ReadsInTSS", "ReadsInPromoter", "ReadsInBlacklist",
                             "NucleosomeRatio", "nMultiFrags", "nMonoFrags",
                             "nFrags", "nDiFrags", "ReadsInPeaks"))
