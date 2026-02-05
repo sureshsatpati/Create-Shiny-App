@@ -1,5 +1,5 @@
 # Create-Shiny-App
-# This repository contains code and resources for creating an interactive Shiny app designed for visualizing and analyzing single-cell data, including RNA-seq and ATAC-seq results. The app enables users to explore and interact with multi-omic datasets, providing an intuitive interface for visual exploration of gene expression, chromatin accessibility, and other genomic features.
+This repository contains code and resources for creating an interactive Shiny app designed for visualizing and analyzing single-cell data, including RNA-seq and ATAC-seq results. The app enables users to explore and interact with multi-omic datasets, providing an intuitive interface for visual exploration of gene expression, chromatin accessibility, and other genomic features.
 
 # Key Features:
 
